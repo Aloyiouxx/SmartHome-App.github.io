@@ -1,1 +1,0 @@
-# SmartHome-App.github.io
